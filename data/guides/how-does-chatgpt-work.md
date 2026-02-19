@@ -14,7 +14,7 @@ tags:
 
 Since OpenAI hasn't provided all the details, some parts of the diagram may be inaccurate.
 
-We attempted to explain how it works in the diagram above. The process can be broken down into two parts.
+We attempted to explain how it works in the diagram above. The process can be broken down into two parts
 
 ## Training
 
